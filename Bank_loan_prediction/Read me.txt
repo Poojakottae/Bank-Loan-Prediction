@@ -1,0 +1,14 @@
+-----------How to Run this project--------
+
+step1: Open Anaconda Prompt.
+
+step2: Go to the project directory by using "cd" command
+       Eg: (base) C:\Users\Naveen>cd Final ----click enter
+           (base) C:\Users\Naveen\Final>
+
+step3: Use the "python" command for running ".py" file
+       Eg: (base) C:\Users\Naveen\Final>python Bank_loan_prediction.py
+
+step4: Follow the UI commands for complete Execution.
+
+-----------Thank You----------------
